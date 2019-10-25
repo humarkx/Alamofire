@@ -1,0 +1,15 @@
+{
+  "name": "alamofire",
+  "version": "1.0.0",
+  "description": "Razer IOS SDK alamofire fork",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mushinz/Alamofire.git"
+  },
+  "author": "Hugo Marques",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mushinz/Alamofire/issues"
+  },
+  "homepage": "https://github.com/mushinz/Alamofire#readme"
+}
